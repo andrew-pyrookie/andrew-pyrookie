@@ -1,4 +1,4 @@
-
+![logo](https://github.com/andrew-pyrookie/andrew-pyrookie/blob/main/bannergit.webp)
 <h1 align="center">Hi 👋, I'm Musili Andrew</h1>
 <h3 align="center">A passionate Web Developer and Junior Data Analyst</h3>
 
