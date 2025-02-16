@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrew-pyrookie" alt="andrew-pyrookie" /></a> </p>
 
-- 🔭 I’m currently working on [Homeasy](https://github.com/andrew-pyrookie/Homeasy)
+- 🔭 I’m currently working on [IVEIMS](https://github.com/andrew-pyrookie/IVEIMS.git)
 
 - 🌱 I’m currently learning **SQL, Data Science, react and Django**
 
-- 👯 I’m looking to collaborate on [Homeasy](https://github.com/andrew-pyrookie/Homeasy)
+- 👯 I’m looking to collaborate on [AI BI Dashboard](https://github.com/andrew-pyrookie/AI-BI-Dashboard.git)
 
-- 🤝 I’m looking for help with [Homeasy backend](https://github.com/andrew-pyrookie/Homeasy)
+- 🤝 I’m looking for help with [AI BI Dashboard](https://github.com/andrew-pyrookie/AI-BI-Dashboard.git)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-o9lw.vercel.app/](https://portfolio-o9lw.vercel.app/)
 
